@@ -1,2 +1,7 @@
 # emlakbankasi
-Emlakbankasi
+Test Emlakbankasi
+EMLAKBANKASI
+|------------------------  EMLAKBANK  ------------------------|
+emlakbankasi
+emlakbanka
+emlakbank
